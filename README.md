@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭  I’m currently working on React 3d world <br>🌱  I’m currently Threejs and React Three Fiber<br>💬  Ask me about anything related to React/Astro/Express<br>👨‍💻  Read more about my projects at [my personal website](https://jojosafk.github.io/)<br>
+🌱  I’m currently learning Ract native<br>
+💬  Ask me about anything related to React/Astro<br>
+👨‍💻  Read more about my projects at [my personal website](https://jojoboomer.github.io/)<br>
 
 
 ## 🌐 Socials:
