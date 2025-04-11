@@ -3,9 +3,9 @@
  
 - 👨‍💻 Im a Front-end Developer from Cuba 
 - 🌱 Im currently learning React Native and Python
-- 📫 How to reach me: jojoboomer@gmail.com
+- 🌐 Read more about my projects at [my portfolio](https://jojoboomer.github.io/)
 
-### 🌐 You can find me on
+### 📫 You can find me on
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjlabranate@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jojoboomer.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joellabrada)
